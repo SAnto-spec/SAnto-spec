@@ -36,6 +36,9 @@ I’m always eager to improve my skills, collaborate on meaningful projects, and
 
 <a href="http://www.github.com/SAnto-spec"><img src="https://github-readme-stats.vercel.app/api?username=SAnto-spec&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SAnto-spec's GitHub stats" /></a>
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/SAnto-spec/SAnto-spec/blob/output/github-contribution-grid-snake.svg)
 <a href="https://github.com/SAnto-spec" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAnto-spec&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
