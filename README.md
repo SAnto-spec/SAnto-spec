@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student | Frontend (React) | Java | Unity AR | Arduino (Learning)
 --------------------------------------------------------------------
 
-# Hi 👋, I'm Santo Xavier
+Hi 👋, I'm Santo Xavier
 
 ### Computer Engineering Student | React & Full-Stack Development | Flutter | Unity AR
 
