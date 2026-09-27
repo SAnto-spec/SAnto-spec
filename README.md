@@ -1,12 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Santo Xavier
 =====================================================================================================================================
 
-CS Student | Frontend (React) | Java | Unity AR | Arduino (Learning)
+|Computer Engineering Student | React & Full-Stack Development | Flutter | Unity AR
 --------------------------------------------------------------------
 
 Hi 👋, I'm Santo Xavier
-
-### Computer Engineering Student | React & Full-Stack Development | Flutter | Unity AR
 
 I'm a Computer Engineering undergraduate at **Fr. Conceicao Rodrigues College of Engineering** (expected graduation: **2028**). I enjoy building responsive websites, cross-platform mobile apps, and practical projects that solve real problems.
 
@@ -17,7 +15,8 @@ My interests span **React and full-stack web development**, **Flutter mobile dev
 ### Flutter Developer Intern — Specter Technology And Games Pvt. Ltd.
 *15 February 2026 – 30 June 2026*
 
-- Developed Flutter-based mobile application features and UI components using **Flutter and Dart**.
+- Worked on **ParkEase**, a parking management mobile application built using **Flutter, Dart, and Supabase**.
+- Developed Flutter-based mobile application features and UI components.
 - Collaborated with team members to implement and test application functionality.
 - Contributed to debugging, optimization, and deployment activities.
 
@@ -79,6 +78,7 @@ My interests span **React and full-stack web development**, **Flutter mobile dev
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| **ParkEase — Internship Project** | Parking management mobile application developed during my Flutter internship | Flutter, Dart, Supabase |
 | [Forever E-Commerce](https://github.com/SAnto-spec/Forever-Ecommerce-Mern-) | E-commerce platform with authentication, product catalog, image uploads, and shopping cart | React, Node.js, Express.js, MongoDB, Cloudinary |
 | [Swarm AI](https://github.com/armaan-syed/Swarm_AI) | Multi-agent system that monitors RBI and SEBI updates and produces compliance insights | Python, APIs, Multi-Agent Systems |
 | [StudyHelper AI](https://github.com/SAnto-spec/StudyHelper.ai) | Conversational academic assistant powered by Gemini | React, Node.js, Gemini API, Tailwind CSS |
